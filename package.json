@@ -11,7 +11,10 @@
   "dependencies": {
     "axios": "^0.27.2",
     "bulma": "^0.9.4",
+    "pinia": "^2.0.16",
+    "sass": "^1.53.0",
     "vue": "^3.2.37",
+    "vue-router": "4",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
